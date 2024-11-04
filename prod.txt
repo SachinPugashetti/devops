@@ -1,0 +1,15 @@
+git config --global user.name "SachinPugashetti"
+git config --global user.email "pugashettisachin@gmail.com"
+git clone  https://github.com/SachinPugashetti/devops.git
+for changing the directory  -> cd folder_name;
+to list the files the command is -> ls;
+
+git add filename.txt 
+
+git add .
+
+git commit -m "first commit"
+
+git push origin main
+
+git pull origin main
